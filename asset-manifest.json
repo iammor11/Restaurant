@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/restaurant/static/css/main.e7a72f03.chunk.css",
+    "main.js": "/restaurant/static/js/main.c84af1d7.chunk.js",
+    "main.js.map": "/restaurant/static/js/main.c84af1d7.chunk.js.map",
+    "runtime-main.js": "/restaurant/static/js/runtime-main.6a6f159a.js",
+    "runtime-main.js.map": "/restaurant/static/js/runtime-main.6a6f159a.js.map",
+    "static/js/2.a42d3222.chunk.js": "/restaurant/static/js/2.a42d3222.chunk.js",
+    "static/js/2.a42d3222.chunk.js.map": "/restaurant/static/js/2.a42d3222.chunk.js.map",
+    "index.html": "/restaurant/index.html",
+    "precache-manifest.36ac7497e3d9e4e777ed3e6bfcdcdbae.js": "/restaurant/precache-manifest.36ac7497e3d9e4e777ed3e6bfcdcdbae.js",
+    "service-worker.js": "/restaurant/service-worker.js",
+    "static/css/main.e7a72f03.chunk.css.map": "/restaurant/static/css/main.e7a72f03.chunk.css.map",
+    "static/js/2.a42d3222.chunk.js.LICENSE": "/restaurant/static/js/2.a42d3222.chunk.js.LICENSE",
+    "static/media/1.jpg": "/restaurant/static/media/1.6c19c29d.jpg",
+    "static/media/2.jpg": "/restaurant/static/media/2.6dfd6a8c.jpg",
+    "static/media/3.jpg": "/restaurant/static/media/3.c8dc247a.jpg",
+    "static/media/cd.jpg": "/restaurant/static/media/cd.4b50bcca.jpg",
+    "static/media/index.css": "/restaurant/static/media/myteam.36e1cb43.jpg",
+    "static/media/dinner1.jpg": "/restaurant/static/media/dinner1.b66a9de4.jpg",
+    "static/media/fb.png": "/restaurant/static/media/fb.6a8e6677.png",
+    "static/media/ff.jpg": "/restaurant/static/media/ff.f6c0eda5.jpg",
+    "static/media/ice2.png": "/restaurant/static/media/ice2.298e9669.png",
+    "static/media/ins1.jpg": "/restaurant/static/media/ins1.67e94bbc.jpg",
+    "static/media/logo.png": "/restaurant/static/media/logo.a570faaf.png",
+    "static/media/party1.svg": "/restaurant/static/media/party1.cb4a1524.svg",
+    "static/media/restaurant1.svg": "/restaurant/static/media/restaurant1.d9813d1d.svg",
+    "static/media/restaurant4.svg": "/restaurant/static/media/restaurant4.6dc92728.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a6f159a.js",
+    "static/js/2.a42d3222.chunk.js",
+    "static/css/main.e7a72f03.chunk.css",
+    "static/js/main.c84af1d7.chunk.js"
+  ]
+}
